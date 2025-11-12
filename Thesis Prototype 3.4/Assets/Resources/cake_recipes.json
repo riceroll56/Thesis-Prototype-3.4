@@ -1,0 +1,196 @@
+{
+    "recipes": [
+        {
+            "ingredients": [ "CakeBatter" ],
+            "product": "Basic Cake",
+            "quality": "☆☆☆",
+            "attribute1": "",
+            "attribute2": "",
+            "hint": "Basic recipe, how could this be altered even more?"
+        },
+        {
+            "ingredients": [ "CakeBatter", "Wheat" ],
+            "product": "Whole Grain Cake",
+            "quality": "☆☆☆☆",
+            "attribute1": "Healthy",
+            "attribute2": "",
+            "hint": "Interesting recipe."
+        },
+        {
+            "ingredients": [ "CakeBatter", "Wheat", "Egg" ],
+            "product": "Whole Grain Pound Cake",
+            "quality": "☆☆☆☆",
+            "attribute1": "Healthy",
+            "attribute2": "Rich",
+            "hint": "Interesting recipe."
+        },
+        {
+            "ingredients": [ "CakeBatter", "Wheat", "WhippedEggWhite" ],
+            "product": "Grain Angel Sponge Cake",
+            "quality": "☆☆☆☆",
+            "attribute1": "Healthy",
+            "attribute2": "Airy",
+            "hint": "Interesting recipe."
+        },
+        {
+            "ingredients": [ "CakeBatter", "Wheat", "CaneSyrup" ],
+            "product": "Whole Grain Syrup Cake",
+            "quality": "☆☆☆☆",
+            "attribute1": "Healthy",
+            "attribute2": "Sweet",
+            "hint": "Interesting recipe."
+        },
+        {
+            "ingredients": [ "CakeBatter", "Wheat", "Sugar" ],
+            "product": "Whole Grain Pound Cake",
+            "quality": "☆☆☆☆",
+            "attribute1": "Healthy",
+            "attribute2": "Sweet",
+            "hint": "Interesting recipe."
+        },
+        {
+            "ingredients": [ "CakeBatter", "Wheat", "Salt" ],
+            "product": "Whole Grain Cornbread",
+            "quality": "☆☆☆☆",
+            "attribute1": "Healthy",
+            "attribute2": "Savory",
+            "hint": "Interesting recipe."
+        },
+        {
+            "ingredients": [ "CakeBatter", "Egg" ],
+            "product": "Pound Cake",
+            "quality": "☆☆",
+            "attribute1": "Rich",
+            "attribute2": "",
+            "hint": "It seems to be missing something..."
+        },
+        {
+            "ingredients": [ "CakeBatter", "Egg", "CaneSyrup" ],
+            "product": "Pound Cake",
+            "quality": "☆☆☆☆",
+            "attribute1": "Rich",
+            "attribute2": "Sweet",
+            "hint": "Slightly sticky...what could be a better sweetener?"
+        },
+        {
+            "ingredients": [ "CakeBatter", "Egg", "Sugar" ],
+            "product": "Pound Cake",
+            "quality": "☆☆☆☆☆",
+            "attribute1": "Rich",
+            "attribute2": "Sweet",
+            "hint": "Perfect! This is a special recipe!"
+        },
+        {
+            "ingredients": [ "CakeBatter", "WhippedEggWhite" ],
+            "product": "Sponge Cake",
+            "quality": "☆☆",
+            "attribute1": "Airy",
+            "attribute2": "",
+            "hint": "It seems to be missing something..."
+        },
+        {
+            "ingredients": [ "CakeBatter", "WhippedEggWhite", "CaneSyrup" ],
+            "product": "Sponge Cake",
+            "quality": "☆☆☆☆",
+            "attribute1": "Airy",
+            "attribute2": "Sweet",
+            "hint": "Slightly sticky...what could be a better sweetener?"
+        },
+        {
+            "ingredients": [ "CakeBatter", "WhippedEggWhite", "Sugar" ],
+            "product": "Sponge Cake",
+            "quality": "☆☆☆☆☆",
+            "attribute1": "Airy",
+            "attribute2": "Sweet",
+            "hint": "Perfect! This is a special recipe!"
+        },
+        {
+            "ingredients": [ "CakeBatter", "CaneSyrup" ],
+            "product": "Gâteau de Sirop",
+            "quality": "☆☆☆☆☆",
+            "attribute1": "Sweet",
+            "attribute2": "",
+            "hint": "Perfect! This is a special recipe!"
+        },
+        {
+            "ingredients": [ "CakeBatter", "Sugar" ],
+            "product": "Pound Cake",
+            "quality": "☆☆",
+            "attribute1": "Sweet",
+            "attribute2": "",
+            "hint": "It seems to be missing something..."
+        },
+        {
+            "ingredients": [ "CakeBatter", "Salt" ],
+            "product": "Cornbread",
+            "quality": "☆☆☆☆☆",
+            "attribute1": "",
+            "attribute2": "Savory",
+            "hint": "Perfect! This is a special recipe!"
+        },
+        {
+            "ingredients": [ "CakeBatter", "Salt", "Sugar" ],
+            "product": "Cornbread",
+            "quality": "☆☆☆☆☆",
+            "attribute1": "Sweet",
+            "attribute2": "Savory",
+            "hint": "Perfect! This is a special recipe!"
+        },
+        {
+            "ingredients": [ "CakeBatter", "Salt", "CaneSyrup" ],
+            "product": "Cornbread",
+            "quality": "☆☆☆☆",
+            "attribute1": "Sweet",
+            "attribute2": "Savory",
+            "hint": "Slightly sticky...what could be a better sweetener?"
+        },
+        {
+            "ingredients": [ "CakeBatter", "Milk" ],
+            "product": "Dulce de Leche Cake",
+            "quality": "☆☆",
+            "attribute1": "Moist",
+            "attribute2": "",
+            "hint": "It seems to be missing something..."
+        },
+        {
+            "ingredients": [ "Cake Batter", "Milk", "CaneSyrup" ],
+            "product": "Dulce de Leche Cake",
+            "quality": "☆☆☆☆",
+            "attribute1": "Moist",
+            "attribute2": "Sweet",
+            "hint": "Slightly sticky...what could be a better sweetener?"
+        },
+        {
+            "ingredients": [ "CakeBatter", "Milk", "Sugar" ],
+            "product": "Dulce de Leche Cake",
+            "quality": "☆☆☆☆☆",
+            "attribute1": "Moist",
+            "attribute2": "Sweet",
+            "hint": "Perfect! This is a special recipe!"
+        },
+        {
+            "ingredients": [ "CakeBatter", "Flour" ],
+            "product": "Brick Cake",
+            "quality": "☆",
+            "attribute1": "Dense",
+            "attribute2": "",
+            "hint": "Cake batter already contains flour! This will create too much structure."
+        },
+        {
+            "ingredients": [ "CakeBatter", "Water" ],
+            "product": "Soggy Cake",
+            "quality": "☆",
+            "attribute1": "Moist",
+            "attribute2": "",
+            "hint": "The batter is drowning."
+        },
+        {
+            "ingredients": [ "CakeBatter", "ActiveYeast" ],
+            "product": "Babka",
+            "quality": "☆☆☆☆☆",
+            "attribute1": "Sweet",
+            "attribute2": "",
+            "hint": "Perfect! This is a special recipe!"
+        }
+    ]
+}

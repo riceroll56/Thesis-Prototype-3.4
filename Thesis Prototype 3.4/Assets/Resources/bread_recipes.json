@@ -1,0 +1,204 @@
+{
+    "recipes": [
+        {
+            "ingredients": [ "BreadDough" ],
+            "product": "Basic Bread",
+            "quality": "☆☆☆",
+            "attribute1": "",
+            "attribute2": "",
+            "hint": "Basic recipe, how could this be altered even more?"
+        },
+        {
+            "ingredients": [ "BreadDough", "Wheat" ],
+            "product": "Whole Grain Bread",
+            "quality": "☆☆☆☆",
+            "attribute1": "Healthy",
+            "attribute2": "",
+            "hint": "Good recipe, how could this be altered even more?"
+        },
+        {
+            "ingredients": [ "BreadDough", "Wheat", "Egg" ],
+            "product": "Whole Grain Challah",
+            "quality": "☆☆☆☆",
+            "attribute1": "Healthy",
+            "attribute2": "Rich",
+            "hint": "Interesting recipe."
+        },
+        {
+            "ingredients": [ "BreadDough", "Wheat", "WhippedEggWhite" ],
+            "product": "Grain Angel Cake",
+            "quality": "☆☆☆☆",
+            "attribute1": "Healthy",
+            "attribute2": "Airy",
+            "hint": "Interesting recipe."
+        },
+        {
+            "ingredients": [ "BreadDough", "Wheat", "CaneSyrup" ],
+            "product": "Sirapslimpa",
+            "quality": "☆☆☆☆☆",
+            "attribute1": "Healthy",
+            "attribute2": "Sweet",
+            "hint": "Perfect! This is a special recipe!"
+        },
+        {
+            "ingredients": [ "BreadDough", "Wheat", "Sugar" ],
+            "product": "Grain Sweet Bread",
+            "quality": "☆☆☆☆",
+            "attribute1": "Healthy",
+            "attribute2": "Sweet",
+            "hint": "Interesting recipe."
+        },
+        {
+            "ingredients": [ "BreadDough", "Wheat", "Salt" ],
+            "product": "Grain Shio Pan",
+            "quality": "☆☆☆☆",
+            "attribute1": "Healthy",
+            "attribute2": "Savory",
+            "hint": "Interesting recipe."
+        },
+        {
+            "ingredients": [ "BreadDough", "Egg" ],
+            "product": "Challah",
+            "quality": "☆☆",
+            "attribute1": "Rich",
+            "attribute2": "",
+            "hint": "It seems to be missing something..."
+        },
+        {
+            "ingredients": [ "BreadDough", "Egg", "CaneSyrup" ],
+            "product": "Challah",
+            "quality": "☆☆☆☆",
+            "attribute1": "Rich",
+            "attribute2": "Sweet",
+            "hint": "Slightly sticky...what could be a better sweetener?"
+        },
+        {
+            "ingredients": [ "BreadDough", "Egg", "Sugar" ],
+            "product": "Challah",
+            "quality": "☆☆☆☆☆",
+            "attribute1": "Rich",
+            "attribute2": "Sweet",
+            "hint": "Perfect! This is a special recipe!"
+        },
+        {
+            "ingredients": [ "BreadDough", "WhippedEggWhite" ],
+            "product": "Angel Food Cake",
+            "quality": "☆☆",
+            "attribute1": "Airy",
+            "attribute2": "",
+            "hint": "It seems to be missing something..."
+        },
+        {
+            "ingredients": [ "BreadDough", "WhippedEggWhite", "CaneSyrup" ],
+            "product": "Angel Food Cake",
+            "quality": "☆☆☆☆",
+            "attribute1": "Airy",
+            "attribute2": "Sweet",
+            "hint": "Slightly sticky...what could be a better sweetener?"
+        },
+        {
+            "ingredients": [ "BreadDough", "WhippedEggWhite", "Sugar" ],
+            "product": "Angel Food Cake",
+            "quality": "☆☆☆☆☆",
+            "attribute1": "Airy",
+            "attribute2": "Sweet",
+            "hint": "Perfect! This is a special recipe!"
+        },
+        {
+            "ingredients": [ "BreadDough", "CaneSyrup" ],
+            "product": "Syrup Bread",
+            "quality": "☆☆☆☆",
+            "attribute1": "Sweet",
+            "attribute2": "",
+            "hint": "Good recipe, how could this be altered even more?"
+        },
+        {
+            "ingredients": [ "BreadDough", "Sugar" ],
+            "product": "Sweet Bread",
+            "quality": "☆☆☆☆",
+            "attribute1": "Sweet",
+            "attribute2": "",
+            "hint": "Good recipe, how could this be altered even more?"
+        },
+        {
+            "ingredients": [ "BreadDough", "Salt" ],
+            "product": "Shio Pan",
+            "quality": "☆☆",
+            "attribute1": "Savory",
+            "attribute2": "",
+            "hint": "It seems to be missing something..."
+        },
+        {
+            "ingredients": [ "BreadDough", "Salt", "CaneSyrup" ],
+            "product": "Shio Pan",
+            "quality": "☆☆☆☆",
+            "attribute1": "",
+            "attribute2": "",
+            "hint": "Slightly sticky...what could be a better sweetener?"
+        },
+        {
+            "ingredients": [ "BreadDough", "Salt", "Sugar" ],
+            "product": "Shio Pan",
+            "quality": "☆☆☆☆☆",
+            "attribute1": "Sweet",
+            "attribute2": "Savory",
+            "hint": "Perfect! This is a special recipe!"
+        },
+        {
+            "ingredients": [ "BreadDough", "Flour" ],
+            "product": "Brick Bread",
+            "quality": "☆",
+            "attribute1": "Dense",
+            "attribute2": "",
+            "hint": "Bread dough already contains flour! This will create too much structure."
+        },
+        {
+            "ingredients": [ "BreadDough", "Water" ],
+            "product": "Soggy Bread",
+            "quality": "☆",
+            "attribute1": "Moist",
+            "attribute2": "",
+            "hint": "The dough is drowning."
+        },
+        {
+            "ingredients": [ "BreadDough", "ActiveYeast" ],
+            "product": "Exploding Bread",
+            "quality": "☆",
+            "attribute1": "Unstable",
+            "attribute2": "",
+            "hint": "Bread dough already contains yeast. This will cause it to over-rise."
+        },
+        {
+            "ingredients": [ "BreadDough", "Butter", "Egg" ],
+            "product": "Brioche",
+            "quality": "☆☆☆☆☆",
+            "attribute1": "Rich",
+            "attribute2": "Tender",
+            "hint": "Perfect! This is a special recipe!"
+        },
+        {
+            "ingredients": [ "BreadDough", "Butter" ],
+            "product": "Brioche",
+            "quality": "☆☆",
+            "attribute1": "",
+            "attribute2": "Tender",
+            "hint": "It seems to be missing something..."
+        },
+        {
+            "ingredients": [ "BreadDough", "Milk" ],
+            "product": "Milk Bread",
+            "quality": "☆☆",
+            "attribute1": "",
+            "attribute2": "Tender",
+            "hint": "It seems to be missing soemthing..."
+        },
+        {
+            "ingredients": [ "BreadDough", "Milk", "Sugar" ],
+            "product": "Milk Bread",
+            "quality": "☆☆☆☆☆",
+            "attribute1": "Sweet",
+            "attribute2": "Tender",
+            "hint": "Perfect! This is a special recipe!"
+        }
+    ]
+}

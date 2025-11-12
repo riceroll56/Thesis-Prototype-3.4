@@ -1,0 +1,220 @@
+{
+    "recipes": [
+        {
+            "ingredients": [ "SimpleDough" ],
+            "product": "Simple Pastry",
+            "quality": "☆☆☆",
+            "attribute1": "",
+            "attribute2": "",
+            "hint": "Basic recipe, how could this be altered even more?"
+        },
+        {
+            "ingredients": [ "SimpleDough", "Wheat" ],
+            "product": "Whole Grain Pastry",
+            "quality": "☆☆☆☆",
+            "attribute1": "Healthy",
+            "attribute2": "",
+            "hint": "Interesting recipe."
+        },
+        {
+            "ingredients": [ "SimpleDough", "Wheat", "Egg" ],
+            "product": "Whole Grain Choux Pastry",
+            "quality": "☆☆☆☆",
+            "attribute1": "Healthy",
+            "attribute2": "Rich",
+            "hint": "Interesting recipe."
+        },
+        {
+            "ingredients": [ "SimpleDough", "Wheat", "WhippedEggWhite" ],
+            "product": "Whole Grain Souffle",
+            "quality": "☆☆☆☆",
+            "attribute1": "Healthy",
+            "attribute2": "Airy",
+            "hint": "Interesting recipe."
+        },
+        {
+            "ingredients": [ "SimpleDough", "WhippedEggWhite" ],
+            "product": "Souffle",
+            "quality": "☆☆",
+            "attribute1": "Airy",
+            "attribute2": "",
+            "hint": "It seems to be missing something..."
+        },
+        {
+            "ingredients": [ "SimpleDough", "WhippedEggWhite", "Sugar" ],
+            "product": "Souffle",
+            "quality": "☆☆☆☆☆",
+            "attribute1": "Airy",
+            "attribute2": "Sweet",
+            "hint": "Perfect! This is a special recipe!"
+        },
+        {
+            "ingredients": [ "SimpleDough", "WhippedEggWhite", "CaneSyrup" ],
+            "product": "Souffle",
+            "quality": "☆☆☆☆",
+            "attribute1": "Airy",
+            "attribute2": "Sweet",
+            "hint": "Slightly sticky...what could be a better sweetener?"
+        },
+        {
+            "ingredients": [ "SimpleDough", "WhippedEggWhite", "Milk" ],
+            "product": "Souffle Pancake",
+            "quality": "☆☆☆☆☆",
+            "attribute1": "Airy",
+            "attribute2": "Rich",
+            "hint": "Perfect! This is a special recipe!"
+        },
+        {
+            "ingredients": [ "SimpleDough", "Egg" ],
+            "product": "Choux Pastry",
+            "quality": "☆☆",
+            "attribute1": "Rich",
+            "attribute2": "Sweet",
+            "hint": "It seems to be missing something..."
+        },
+        {
+            "ingredients": [ "SimpleDough", "Egg", "Cream" ],
+            "product": "Cream Puff",
+            "quality": "☆☆☆☆☆",
+            "attribute1": "Rich",
+            "attribute2": "Rich",
+            "hint": "Perfect! This is a special recipe!"
+        },
+        {
+            "ingredients": [ "SimpleDough", "Egg", "Sugar" ],
+            "product": "Choux Pastry",
+            "quality": "☆☆☆☆☆",
+            "attribute1": "Rich",
+            "attribute2": "Sweet",
+            "hint": "Perfect! This is a special recipe!"
+        },
+        {
+            "ingredients": [ "SimpleDough", "Egg", "CaneSyrup" ],
+            "product": "Choux Pastry",
+            "quality": "☆☆☆☆",
+            "attribute1": "Rich",
+            "attribute2": "Sweet",
+            "hint": "Slightly sticky...what could be a better sweetener?"
+        },
+        {
+            "ingredients": [ "SimpleDough", "Egg", "Milk" ],
+            "product": "Crepe",
+            "quality": "☆☆☆☆☆",
+            "attribute1": "Rich",
+            "attribute2": "Rich",
+            "hint": "Perfect! This is a special recipe!"
+        },
+        {
+            "ingredients": [ "SimpleDough", "Egg", "Cream" ],
+            "product": "Quiche",
+            "quality": "☆☆☆☆☆",
+            "attribute1": "Rich",
+            "attribute2": "Rich",
+            "hint": "Perfect! This is a special recipe!"
+        },
+        {
+            "ingredients": [ "SimpleDough", "CaneSyrup" ],
+            "product": "Mooncake",
+            "quality": "☆☆",
+            "attribute1": "Sweet",
+            "attribute2": "Sweet",
+            "hint": "It seems to be missing something... a filling?"
+        },
+        {
+            "ingredients": [ "SimpleDough", "CaneSyrup", "HardBoiledEggYolk" ],
+            "product": "Traditional Mooncake",
+            "quality": "☆☆☆☆☆",
+            "attribute1": "Sweet",
+            "attribute2": "Sweet",
+            "hint": "Perfect! This is a special recipe!"
+        },
+        {
+            "ingredients": [ "SimpleDough", "Milk" ],
+            "product": "Crepe",
+            "quality": "☆☆",
+            "attribute1": "Rich",
+            "attribute2": "",
+            "hint": "It seems to be missing something..."
+        },
+        {
+            "ingredients": [ "SimpleDough", "Milk", "Sugar" ],
+            "product": "Crepe",
+            "quality": "☆☆",
+            "attribute1": "Rich",
+            "attribute2": "Sweet",
+            "hint": "It seems to be missing something..."
+        },
+        {
+            "ingredients": [ "SimpleDough", "Milk", "CaneSyrup" ],
+            "product": "Crepe",
+            "quality": "☆☆",
+            "attribute1": "Rich",
+            "attribute2": "Sweet",
+            "hint": "It seems to be missing something..."
+        },
+        {
+            "ingredients": [ "SimpleDough", "Butter" ],
+            "product": "Croissant",
+            "quality": "☆☆",
+            "attribute1": "Rich",
+            "attribute2": "",
+            "hint": "It seems to be missing something..."
+        },
+        {
+            "ingredients": [ "SimpleDough", "Butter", "Sugar" ],
+            "product": "Croissant",
+            "quality": "☆☆☆☆☆",
+            "attribute1": "Rich",
+            "attribute2": "Sweet",
+            "hint": "Perfect! This is a special recipe!"
+        },
+        {
+            "ingredients": [ "SimpleDough", "Butter", "CaneSyrup" ],
+            "product": "Croissant",
+            "quality": "☆☆☆☆",
+            "attribute1": "Rich",
+            "attribute2": "Sweet",
+            "hint": "Slightly sticky...what could be a better sweetener?"
+        },
+        {
+            "ingredients": [ "SimpleDough", "Water" ],
+            "product": "Flat Bread",
+            "quality": "☆☆☆",
+            "attribute1": "Savory",
+            "attribute2": "",
+            "hint": "Basic recipe, how could this be altered even more?"
+        },
+        {
+            "ingredients": [ "SimpleDough", "Water", "Wheat" ],
+            "product": "Flat Bread",
+            "quality": "☆☆☆☆",
+            "attribute1": "Savory",
+            "attribute2": "Healthy",
+            "hint": "Interesting recipe."
+        },
+        {
+            "ingredients": [ "SimpleDough", "Salt" ],
+            "product": "Salty Pastry",
+            "quality": "☆",
+            "attribute1": "Savory",
+            "attribute2": "",
+            "hint": "Too much salt."
+        },
+        {
+            "ingredients": [ "SimpleDough", "Flour" ],
+            "product": "Tough Pastry",
+            "quality": "☆",
+            "attribute1": "Dense",
+            "attribute2": "",
+            "hint": "Pastry dough already contains flour! This will create too much structure."
+        },
+        {
+            "ingredients": [ "SimpleDough", "ActiveYeast" ],
+            "product": "Exploding Pastry",
+            "quality": "☆",
+            "attribute1": "Unstable",
+            "attribute2": "",
+            "hint": "Never heard of a pastry with yeast."
+        }
+    ]
+}

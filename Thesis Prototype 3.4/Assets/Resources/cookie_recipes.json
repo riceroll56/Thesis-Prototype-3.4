@@ -1,0 +1,172 @@
+{
+    "recipes": [
+        {
+            "ingredients": [ "CookieDough" ],
+            "product": "Butter Cookies",
+            "quality": "☆☆☆",
+            "attribute1": "",
+            "attribute2": "",
+            "hint": "Basic recipe, how could this be altered even more?"
+        },
+        {
+            "ingredients": [ "CookieDough", "Wheat" ],
+            "product": "Whole Wheat Cookies",
+            "quality": "☆☆☆☆",
+            "attribute1": "Healthy",
+            "attribute2": "",
+            "hint": "Interesting recipe."
+        },
+        {
+            "ingredients": [ "CookieDough", "Wheat", "Milk" ],
+            "product": "Whole Wheat Milk Cookies",
+            "quality": "☆☆☆☆",
+            "attribute1": "Healthy",
+            "attribute2": "Rich",
+            "hint": "Interesting recipe."
+        },
+        {
+            "ingredients": [ "CookieDough", "Wheat", "CaneSyrup" ],
+            "product": "Whole Wheat Syrup Cookies",
+            "quality": "☆☆☆☆",
+            "attribute1": "Healthy",
+            "attribute2": "Sweet",
+            "hint": "Interesting recipe."
+        },
+        {
+            "ingredients": [ "CookieDough", "Wheat", "Sugar" ],
+            "product": "Whole Grain Sugar Cookies",
+            "quality": "☆☆☆☆",
+            "attribute1": "Healthy",
+            "attribute2": "Sweet",
+            "hint": "Interesting recipe."
+        },
+        {
+            "ingredients": [ "CookieDough", "Wheat", "Salt" ],
+            "product": "Sea Salt Whole Grain Cookies",
+            "quality": "☆☆☆☆",
+            "attribute1": "Healthy",
+            "attribute2": "Savory",
+            "hint": "Interesting recipe."
+        },
+        {
+            "ingredients": [ "CookieDough", "WhippedEggWhite" ],
+            "product": "Macarons",
+            "quality": "☆☆☆☆☆",
+            "attribute1": "Airy",
+            "attribute2": "",
+            "hint": "Perfect! This is a special recipe!"
+        },
+        {
+            "ingredients": [ "CookieDough", "HardBoiledEggYolk", "Sugar" ],
+            "product": "Margaret Cookies",
+            "quality": "☆☆☆☆☆",
+            "attribute1": "Rich",
+            "attribute2": "Sweet",
+            "hint": "Perfect! This is a special recipe!"
+        },
+        {
+            "ingredients": [ "CookieDough", "CaneSyrup" ],
+            "product": "Syrup Snap Cookies",
+            "quality": "☆☆☆☆☆",
+            "attribute1": "Sweet",
+            "attribute2": "",
+            "hint": "Perfect! This is a special recipe!"
+        },
+        {
+            "ingredients": [ "CookieDough", "Sugar" ],
+            "product": "Sugar Cookies",
+            "quality": "☆☆☆☆☆",
+            "attribute1": "Sweet",
+            "attribute2": "",
+            "hint": "Perfect! This is a special recipe!"
+        },
+        {
+            "ingredients": [ "CookieDough", "Milk" ],
+            "product": "Milk Cookies",
+            "quality": "☆☆☆☆☆",
+            "attribute1": "Rich",
+            "attribute2": "",
+            "hint": "Perfect! This is a special recipe!"
+        },
+        {
+            "ingredients": [ "CookieDough", "Salt" ],
+            "product": "Salted Cookies",
+            "quality": "☆☆☆☆",
+            "attribute1": "Savory",
+            "attribute2": "",
+            "hint": "Interesting recipe."
+        },
+        {
+            "ingredients": [ "CookieDough", "Salt", "CaneSyrup" ],
+            "product": "Sea Salt Syrup Snap Cookies",
+            "quality": "☆☆☆☆",
+            "attribute1": "Savory",
+            "attribute2": "Sweet",
+            "hint": "Interesting recipe."
+        },
+        {
+            "ingredients": [ "CookieDough", "Salt", "Sugar" ],
+            "product": "Sea Salt Sugar Cookies",
+            "quality": "☆☆☆☆",
+            "attribute1": "Savory",
+            "attribute2": "Sweet",
+            "hint": "Interesting recipe."
+        },
+        {
+            "ingredients": [ "CookieDough", "Salt", "WhippedEggWhite" ],
+            "product": "Sea Salt Macarons",
+            "quality": "☆☆☆☆",
+            "attribute1": "Savory",
+            "attribute2": "Airy",
+            "hint": "Interesting recipe."
+        },
+        {
+            "ingredients": [ "CookieDough", "Salt", "HardBoiledEggYolk" ],
+            "product": "Sea Salt Margaret Cookies",
+            "quality": "☆☆☆☆",
+            "attribute1": "Savory",
+            "attribute2": "Rich",
+            "hint": "Interesting recipe."
+        },
+        {
+            "ingredients": [ "CookieDough", "Salt", "Milk" ],
+            "product": "Sea Salt Milk Cookies",
+            "quality": "☆☆☆☆",
+            "attribute1": "Savory",
+            "attribute2": "Rich",
+            "hint": "Interesting recipe."
+        },
+        {
+            "ingredients": [ "CookieDough", "Flour" ],
+            "product": "Tough Cookies",
+            "quality": "☆",
+            "attribute1": "Dense",
+            "attribute2": "",
+            "hint": "Cake batter already contains flour! This will create too much structure."
+        },
+        {
+            "ingredients": [ "CookieDough", "Water" ],
+            "product": "Tough Cookies",
+            "quality": "☆",
+            "attribute1": "Moist",
+            "attribute2": "",
+            "hint": "The batter is drowning."
+        },
+        {
+            "ingredients": [ "CookieDough", "ActiveYeast" ],
+            "product": "Exploding Cookies",
+            "quality": "☆",
+            "attribute1": "Sweet",
+            "attribute2": "",
+            "hint": "Never heard of a cookie with yeast."
+        },
+        {
+            "ingredients": [ "CookieDough", "Egg" ],
+            "product": "Tough Cookies",
+            "quality": "☆",
+            "attribute1": "Rich",
+            "attribute2": "",
+            "hint": "Too much eggs makes the dough tough."
+        }
+    ]
+}
