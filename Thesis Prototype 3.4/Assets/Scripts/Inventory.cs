@@ -2,6 +2,8 @@ using UnityEngine;
 
 public class Inventory : MonoBehaviour
 {
+    public static Inventory Instance { get; private set; }
+
     public int inventorySize = 10;
     public Item[] items; // Player inventory
 
@@ -48,7 +50,7 @@ public class Inventory : MonoBehaviour
         return false;
     }
 
-    private void UpdateUI()
+    public void UpdateUI()
     {
         string slotSummary = "";
         for (int i = 0; i < slotUIs.Length; i++)
