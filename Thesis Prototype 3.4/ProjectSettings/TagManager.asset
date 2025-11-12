@@ -8,6 +8,10 @@ TagManager:
   - Sand
   - Grass
   - River
+  - Cows
+  - Chickens
+  - Wheat
+  - Sugarcane
   layers:
   - Default
   - TransparentFX

@@ -16,6 +16,7 @@ public class Item : ScriptableObject
         SugarCane,
         YeastSpore,
         Water,
+        SaltWater,
         Egg,
         Milk,
         Flour,
@@ -32,7 +33,7 @@ public class Item : ScriptableObject
         BreadDough,
         CookieDough,
         CakeBatter,
-        SimpleDough
+        SimpleDough,
     }
 
     public enum ItemState

@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8517cfcb227dbcf4fae50a85e3b2b9c2, type: 3}
   m_Name: Cream
   m_EditorClassIdentifier: Assembly-CSharp::Item
-  type: 16
+  type: 17
   state: 4
   description: 
   icon: {fileID: 0}

@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class Inventory : MonoBehaviour
 {
-    public int inventorySize = 15;
+    public int inventorySize = 10;
     public Item[] items; // Player inventory
 
     public InventorySlot[] slotUIs;

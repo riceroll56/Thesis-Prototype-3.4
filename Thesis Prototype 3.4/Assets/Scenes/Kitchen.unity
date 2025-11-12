@@ -12243,13 +12243,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8eb5249d2c3294e4987d5b7aaeee7d91, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Inventory
-  inventorySize: 15
+  inventorySize: 10
   items:
-  - {fileID: 11400000, guid: 7fcc11f3a63ba7c4a976ddd5d43c1ca2, type: 2}
-  - {fileID: 11400000, guid: 7fcc11f3a63ba7c4a976ddd5d43c1ca2, type: 2}
-  - {fileID: 11400000, guid: 7fcc11f3a63ba7c4a976ddd5d43c1ca2, type: 2}
-  - {fileID: 11400000, guid: 7fcc11f3a63ba7c4a976ddd5d43c1ca2, type: 2}
-  - {fileID: 11400000, guid: 7fcc11f3a63ba7c4a976ddd5d43c1ca2, type: 2}
   - {fileID: 11400000, guid: 7fcc11f3a63ba7c4a976ddd5d43c1ca2, type: 2}
   - {fileID: 11400000, guid: 7fcc11f3a63ba7c4a976ddd5d43c1ca2, type: 2}
   - {fileID: 11400000, guid: 7fcc11f3a63ba7c4a976ddd5d43c1ca2, type: 2}

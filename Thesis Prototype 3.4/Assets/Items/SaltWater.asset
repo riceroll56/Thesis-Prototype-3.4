@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8517cfcb227dbcf4fae50a85e3b2b9c2, type: 3}
-  m_Name: SimpleDough
+  m_Name: SaltWater
   m_EditorClassIdentifier: Assembly-CSharp::Item
-  type: 22
-  state: 5
+  type: 5
+  state: 1
   description: 
   icon: {fileID: 0}
   quantity: 0
